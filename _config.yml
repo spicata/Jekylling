@@ -2,3 +2,4 @@ baseurl: /Jekylling/
 
 collections:
   authors:
+    output: true
