@@ -1,3 +1,5 @@
 ---
 ---
-@import {{ "main" | relative_url }};
+.current {
+  color: green;
+}
