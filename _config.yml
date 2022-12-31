@@ -1,1 +1,4 @@
 baseurl: /Jekylling/
+
+collections:
+  authors:
